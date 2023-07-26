@@ -1,2 +1,2 @@
 # JavaProjects
- Projetos feitos em java
+ Meus primeiros projetos em java.
